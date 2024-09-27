@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\IT rofls\C++ projectswo\General purpose projects\my notepad\main.cpp(26,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\IT rofls\C++ projectswo\General purpose projects\my notepad\main.cpp(32,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  my notepad.vcxproj -> D:\IT rofls\C++ projectswo\General purpose projects\my notepad\x64\Debug\my notepad.exe

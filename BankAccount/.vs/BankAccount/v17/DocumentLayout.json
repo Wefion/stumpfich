@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Docs\\IT rofls\\\u043F\u043B\u044E\u0441\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D364EEAF-0E58-4C58-BDA6-29C28774CA4A}|BankAccount.vcxproj|D:\\Docs\\IT rofls\\\u043F\u043B\u044E\u0441\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BankAccount\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D364EEAF-0E58-4C58-BDA6-29C28774CA4A}|BankAccount.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Docs\\IT rofls\\\u043F\u043B\u044E\u0441\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BankAccount\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Docs\\IT rofls\\\u043F\u043B\u044E\u0441\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BankAccount\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAALEAAAAAAAAAAAAcwMEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T11:19:22.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

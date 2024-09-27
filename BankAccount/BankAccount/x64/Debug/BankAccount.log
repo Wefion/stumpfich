@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Docs\IT rofls\плюсы\Новая папка\BankAccount\main.cpp(5,1): error C7529: Множество операторов объявления using требуют как минимум "/std:c++17".
+D:\Docs\IT rofls\плюсы\Новая папка\BankAccount\main.cpp(5,1): error C2429: для функция языка "расширения пакетов в объявлениях using" нужен флаг компилятора "/std:c++17" 
+D:\Docs\IT rofls\плюсы\Новая папка\BankAccount\main.cpp(102,24): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Docs\IT rofls\плюсы\Новая папка\BankAccount\main.cpp(137,3): error C2361: пропуск инициализации "opens" из-за метки "default"
+  D:\Docs\IT rofls\плюсы\Новая папка\BankAccount\main.cpp(120,15):
+   см. объявление "opens"
+  
