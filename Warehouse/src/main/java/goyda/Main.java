@@ -192,7 +192,7 @@ class Simulation{
         wh.addOrder(phone);
         wh.addOrder(headphones);
 
-        //Соси хуй
+        // СОРРИ ЧТО ПАСХАЛКИ НЕ УБРАЛ, ПИСАЛ ДЛЯ СЕБЯ ЧТОБЫ УВИДЕТЬ ИХ И ПОДПРАВИТЬ КОД
         Worker w1 = new Worker(wh);
         Worker w2 = new Worker(wh);
         Worker w3 = new Worker(wh);
